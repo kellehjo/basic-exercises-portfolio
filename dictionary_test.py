@@ -1,9 +1,6 @@
 """Testing Dictionaries Function Practice."""
 from exercises.ex07.dictionary import invert, favorite_color, count
 
-__author__: "730530011"
-
-
 def test_no_dict() -> None:
     """Testing with no dictionaries."""
     assert invert([]) == {}
