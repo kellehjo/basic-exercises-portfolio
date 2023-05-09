@@ -1,6 +1,5 @@
 """Ex03 - Wordle - What word could it be? """
 """Part 1"""
-__author__ = "730530011"
 
 def contains_char(searched_str: str, single_searched_char: str) -> bool:
     """Checking if single character found in searched word"""
