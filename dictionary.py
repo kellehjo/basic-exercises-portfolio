@@ -1,5 +1,4 @@
 """Dictionary Function Practice."""
-__author__: "730530011"
 
 
 def invert(orig_dict: dict[str, str]) -> dict[str, str]: 
